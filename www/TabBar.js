@@ -127,12 +127,12 @@ TabBar.prototype.create = function(options) {
 TabBar.prototype.createItem = function(name, label, image, options) {
 
 	var tag = this.tag++;
-    if (options && 'onSelect' in options && typeof(options['onSelect']) == 'function') {
-      this.callbacks[tag] = {'onSelect':options.onSelect,'name':name};
-      //delete options.onSelect;
-    }
+  if (options && 'onSelect' in options && typeof(options['onSelect']) == 'function') {
+    this.callbacks[tag] = {'onSelect':options.onSelect,'name':name};
+    //delete options.onSelect;
+  }
 
-    cordova.exec("TabBar.createItem", name, label, image, tag, options);
+  cordova.exec("TabBar.createItem", name, label, image, tag, options);
 };
 
 /**

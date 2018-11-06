@@ -19,7 +19,7 @@
     "cordova-ios",
     "Native"
   ],
-  "author": "Lifetimecode.com",
+  "author": "Lifetimecode.com, wantable.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wantable/cordova-plugin-CDVTabBar/issues"
