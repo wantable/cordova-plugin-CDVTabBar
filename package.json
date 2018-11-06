@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-cdvtabbar",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Add Native TabBar to your Cordova Applications",
   "cordova": {
     "id": "cordova-plugin-CDVTabBar",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emadello/cordova-plugin-CDVTabBar.git"
+    "url": "git+https://github.com/wantable/cordova-plugin-CDVTabBar.git"
   },
   "keywords": [
 	"ecosystem:cordova",
@@ -22,7 +22,7 @@
   "author": "Lifetimecode.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Emadello/cordova-plugin-CDVTabBar/issues"
+    "url": "https://github.com/wantable/cordova-plugin-CDVTabBar/issues"
   },
-  "homepage": "https://github.com/Emadello/cordova-plugin-CDVTabBar#readme"
+  "homepage": "https://github.com/wantable/cordova-plugin-CDVTabBar#readme"
 }

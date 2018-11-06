@@ -9,8 +9,8 @@
     <description>Cordova TabBar Plugin</description>
     <license>MIT</license>
     <keywords>cordova,tabbar,ios</keywords>
-    <repo>https://github.com/Emadello/cordova-plugin-CDVTabBar.git</repo>
-    <issue>https://github.com/Emadello/cordova-plugin-CDVTabBar/issues</issue>
+    <repo>https://github.com/wantable/cordova-plugin-CDVTabBar.git</repo>
+    <issue>https://github.com/wantable/cordova-plugin-CDVTabBar/issues</issue>
 
     <js-module src="www/TabBar.js" name="TabBar">
         <clobbers target="tabbar" />
