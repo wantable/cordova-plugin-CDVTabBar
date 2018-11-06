@@ -216,7 +216,7 @@
     // if we are calling this again when its shown, reset
     if (!tabBar.hidden)
         return;
-    NSLog(@"Show TabBar222");
+
     const id options = [command argumentAtIndex:0];
 
     if(options && options != [NSNull null])
